@@ -11,6 +11,7 @@ export default function Index() {
     >
       <Text>Edit app/index.tsx to edit this screen.</Text>
       <Text>Hello World!!</Text>
+      <Text>Hello Scout!!</Text>
     </View>
   );
 }
